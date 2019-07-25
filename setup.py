@@ -164,5 +164,5 @@ setup(
     classifiers=['Development Status :: 3 - Alpha',
                  'License :: OSI Approved :: MIT License',
                  'Topic :: Scientific/Engineering :: Artificial Intelligence'],
-    ext_modules=define_extensions(use_openmp)
+    # ext_modules=define_extensions(use_openmp)
 )
